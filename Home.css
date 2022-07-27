@@ -1,0 +1,150 @@
+body{
+    width: 100%;
+    box-sizing: border-box;
+  
+}
+
+.homeapit{margin-left: 2em;
+font-size: 4em;
+color: #666;
+}
+
+#allthe{
+
+    line-height:1.4;
+    color: #666;
+    font-size:2em;
+    margin: 1em 3em;
+}.violet{
+    width: 90%;
+    margin: 3.8em;
+    height: 50em;
+    background-color:#00a0dc;
+    color:#fff;
+}
+#tryit{
+    font: size 2.5em;
+    margin:1em 3em;
+    padding:2em 0em 0em 0em;
+}
+#mysearch{
+    margin-left: 3.1em;
+    padding: 0.8em;
+    width: 80%;
+}
+.fa-search{
+padding: 0.8em 1em;
+}
+ul.breadcrumb {
+    padding: 10px 16px;
+    list-style: none;
+    display: flex;
+    flex-direction: flex-start;
+ 
+  }
+  ul.breadcrumb li {
+    display: inline;
+    font-size: 18px;
+  }
+  ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: black;
+    content: "/\00a0";
+  }
+  .breadcrumb{
+  justify-content: flex-start;
+  margin: 0em 2em;
+  gap: 0em;
+  }
+  ul.breadcrumb li a {
+    text-decoration: none;
+    color: white;
+  
+  }
+  ul.breadcrumb li a:hover {
+    color: #01447e;
+    text-decoration: underline;
+  }
+  #response{
+    margin: 2em 1.8em;
+    font-size: 2em;
+  }
+
+#hometext{
+    width: 32em;
+    margin: 1em 3.9em;
+    padding: 0.7em 0.1em;
+}
+
+.redmit{
+    width: 90%;
+    background-color: red;
+    margin: 2em 3.5em;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin:1em 3.5em;
+}
+.card1{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+    color:#fff;
+    font-size: 1.2em;
+   
+}
+.card2{
+    width:22%;
+    background-color:#fff;
+    height: 40%;
+    gap: 1em;
+    margin: 1em;
+}
+
+.fa {
+    display: inline-block; 
+     font: normal normal normal 14px/1 FontAwesome; 
+     font-size: inherit; 
+     text-rendering: auto; 
+     -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#pera{
+    margin:1em;
+}
+.fa-question-circle {
+    color: #dc3c00;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1em;
+    font-size: 2em;
+}
+
+.myfooter{
+    display:flex;
+    justify-content: space-evenly;
+    background: #333;
+    color: #fff;
+}
+
+.rightf{
+    font-size:1.5em;
+}
+.fa-github{
+    color: #fff;
+}
+.fa-twitter{
+    color:#fff;
+}
+
+#bookchho{
+    width:90%;
+    background-color: #fff;
+    height:28em;
+    overflow-y: scroll;
+    margin:2em 2em;
+    color:black
+}
